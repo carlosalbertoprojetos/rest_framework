@@ -1,4 +1,4 @@
-# Projeto REST Framework
+# Projeto REST Framework - Sistema para controle de finanças pessoais
 
 Este é um projeto Django que utiliza o **Django REST Framework** para construir APIs. O objetivo deste repositório é fornecer uma base para a criação de APIs robustas e escaláveis com Django.
 
